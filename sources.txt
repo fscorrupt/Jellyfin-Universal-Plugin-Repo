@@ -20,6 +20,7 @@ https://github.com/bpwhelan/Jimakufin/releases/latest/download/manifest.json | h
 https://github.com/cxfksword/jellyfin-plugin-danmu/releases/download/manifest/manifest.json | https://github.com/cxfksword/jellyfin-plugin-danmu/
 https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/manifest/manifest.json | https://github.com/cxfksword/jellyfin-plugin-metashark
 https://github.com/cxfksword/jellyfin-plugin-tmdbplus/releases/download/manifest/manifest.json | https://github.com/cxfksword/jellyfin-plugin-tmdbplus
+https://github.com/iEnki/jellyfin-plugin-livetv-control-center/releases/latest/download/manifest.json | https://github.com/iEnki/jellyfin-plugin-livetv-control-center
 https://gladtbam.github.io/jellyfin-plugin-ass-subsetter/manifest.json | https://github.com/Gladtbam/jellyfin-plugin-ass-subsetter
 https://hummird.online/jellyfin/manifest.json | https://github.com/Hummird/Artisan-Jelly
 https://intro-skipper.org/manifest.json | https://github.com/intro-skipper/intro-skipper
